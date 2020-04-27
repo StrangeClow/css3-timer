@@ -49,6 +49,7 @@ html ,body {
 #gal ul {
 	list-style: none;
 }
+/* 标签选择器 */
 input[type="radio"], input[type="radio"] + label {
 	position: absolute;
 	bottom: 15px;
